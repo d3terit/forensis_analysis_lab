@@ -1,0 +1,16 @@
+ID Llamada,Remitente,Receptor,Fecha,Hora,Duración (minutos),Tipo
+1,Lady Margaret Blackwood,Sir Edward Blackwood,2024-02-20,09:15,10,Saliente
+2,Sir Edward Blackwood,Lady Margaret Blackwood,2024-02-20,09:20,5,Entrante
+3,Mr. Thomas,Dr. William Grey,2024-02-20,10:00,15,Saliente
+4,Lady Catherine Blackwood,Sir Edward Blackwood,2024-02-20,10:30,8,Saliente
+5,Dr. William Grey,Lord Alexander Blackwood,2024-02-20,11:00,20,Entrante
+6,Lord Alexander Blackwood,Lady Catherine Blackwood,2024-02-20,11:30,10,Entrante
+7,Lady Margaret Blackwood,Sir Edward Blackwood,2024-02-20,12:00,7,Saliente
+8,Sir Edward Blackwood,Lady Margaret Blackwood,2024-02-20,12:30,5,Entrante
+9,Dr. William Grey,Mr. Thomas,2024-02-20,13:00,12,Saliente
+10,Sir Edward Blackwood,Mr. Thomas,2024-02-20,13:30,8,Saliente
+11,Lady Catherine Blackwood,Dr. William Grey,2024-02-20,14:00,15,Saliente
+12,Lady Margaret Blackwood,Sir Edward Blackwood,2024-02-20,14:30,5,Entrante
+13,Lord Alexander Blackwood,Lady Catherine Blackwood,2024-02-20,15:00,20,Saliente
+14,Sir Edward Blackwood,Lord Alexander Blackwood,2024-02-20,15:30,10,Entrante
+15,Dr. William Grey,Lady Margaret Blackwood,2024-02-20,16:00,8,Saliente
